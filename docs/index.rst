@@ -15,6 +15,8 @@ Category:
 
    doc01
    doc02
+   doc03
+   doc04
 
 
    :caption: Contents:
